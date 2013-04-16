@@ -1,0 +1,9 @@
+{
+  "name": "proxy",
+  "version": "0.0.0",
+  "description": "forward port 4000 to port 3000",
+  "main": "proxy.js",
+  "dependencies": {
+    "http-proxy": "*"
+  }
+}
